@@ -1,6 +1,7 @@
-# SERPENT - Snake Game
+#  <img src="https://github.com/whatisfahad/Serpent2.0/assets/143032062/e5c25df9-525d-484c-8a82-c5c9e9d1ed32" height=100px> SERPENT - Snake Game 
 
-Welcome to SERPENT, a classic snake game implemented in Java! This game offers an engaging and entertaining experience with different options and modes to enhance your gameplay.
+Welcome to 
+SERPENT, a classic snake game implemented in Java! This game offers an engaging and entertaining experience with different options and modes to enhance your gameplay.
 
 ## Features
  
