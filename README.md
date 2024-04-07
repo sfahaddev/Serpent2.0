@@ -5,13 +5,12 @@ SERPENT, a classic snake game implemented in Java! This game offers an engaging 
 
 ## Features
  
-- **Classic Gameplay**: Enjoy the timeless fun of controlling a snake to eat food and grow longer ![1](https://github.com/whatisfahad/Serpent2.0/assets/143032062/acee07bc-d8b9-4348-8866-f259005bc6d5)
-.
+- **Classic Gameplay**: Enjoy the timeless fun of controlling a snake to eat food and grow longer. 🐍
 - **Easy and Hard Modes**: Challenge yourself with two difficulty levels to suit your skill level.
-- **Responsive Controls**: Smooth and intuitive controls for seamless gameplay.
+- **Responsive Controls**: Smooth and intuitive controls for seamless gameplay.⬆️⬇️⬅️➡️
 - **Score Tracking**: Keep track of your highest scores and strive for new records.
-- **Restart game**: Restart the game when you're ready to play.
-- **High Score**: Compete with yourself and your friends to achieve the highest score.
+- **Restart game**: Restart the game when you're ready to play. 🔁
+- **High Score**: Compete with yourself and your friends to achieve the highest score. 🔝
 
 ## Instructions
 
@@ -20,7 +19,7 @@ SERPENT, a classic snake game implemented in Java! This game offers an engaging 
    - Press 'Enter or Space' to restart the game.
 
 2. **Gameplay**:
-   - Guide the snake to eat food represented by an apple.
+   - Guide the snake to eat food represented by an apple.🍎
    - As the snake consumes food, it grows longer.
    - Avoid colliding with walls or the snake's own body.
 
@@ -45,4 +44,8 @@ Contributions are welcome! Feel free to submit a pull request or open an issue o
 
 ---
 
-Enjoy playing SERPENT and have a slithery good time!
+Enjoy playing SERPENT and have a slithery good time! 𓆗  
+![images-removebg-preview](https://github.com/whatisfahad/Serpent2.0/assets/143032062/4450ef5f-f08d-4a40-9e80-dee645faacb0)
+      ![images-removebg-preview (1)](https://github.com/whatisfahad/Serpent2.0/assets/143032062/dba92fc3-a342-46e6-82b5-6d94774ff1e7)
+
+
