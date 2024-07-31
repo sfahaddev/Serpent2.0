@@ -3,6 +3,11 @@
 Welcome to 
 SERPENT, a classic snake game implemented in Java! This game offers an engaging and entertaining experience with different options and modes to enhance your gameplay.
 
+
+
+https://github.com/user-attachments/assets/ef4c799b-6f23-449d-8d64-3a4bb32104db
+
+
 ## Features
  
 - **Classic Gameplay**: Enjoy the timeless fun of controlling a snake to eat food and grow longer. 🐍
